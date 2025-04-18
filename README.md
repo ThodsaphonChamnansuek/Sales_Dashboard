@@ -16,11 +16,6 @@ This project transforms raw sales data into a clean and interactive dashboard. I
 
 - Design a clean, interactive dashboard for business decision-making
 
-Whether you're an analyst, manager, or decision-maker, this dashboard gives you the tools to explore your sales data effectively.
-
----
-
-
 ---
 
 ## 🔧 Features
@@ -28,7 +23,7 @@ Whether you're an analyst, manager, or decision-maker, this dashboard gives you 
 - **KPI Cards**: Total Sales, Profit, Orders, Quantity
 - **Trend Analysis**: Monthly sales and profit line charts
 - **Regional Sales Map**: Visualize sales by geographic location
-- **Top 10 Products**: Best-selling items by revenue
+- **Top 5 Products**: Best-selling items by revenue
 - **Dynamic Filters (Slicers)**: Date, Region, Category, Sub-category
 
 ---
@@ -55,18 +50,10 @@ Whether you're an analyst, manager, or decision-maker, this dashboard gives you 
 
 ## 📸 Screenshot
 
-![Sales Dashboard Screenshot](./images/dashboard_preview.png)  
-*Clean layout, filterable by region, category, and date.*
 
----
 
-## ✨ Getting Started
 
-To view and interact with this dashboard:
 
-1. Download or clone this repository
-2. Open `SalesDashboard.pbix` in [Power BI Desktop](https://powerbi.microsoft.com/)
-3. Explore visuals, filters, and data insights!
 
 ---
 
@@ -74,9 +61,9 @@ To view and interact with this dashboard:
 
 If you're hiring or interested in a collaboration, feel free to reach out!
 
-- 📧 your.email@example.com  
-- 💼 [LinkedIn](https://linkedin.com/in/yourname)  
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- 📧 [Email](mailto:thodsaphol.cha@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/thodsaphon-chamnansuek-318642355)   
+- 🌐 Portfolio:[ [yourportfolio.com](https://yourportfolio.com)](https://github.com/ThodsaphonChamnansuek/my_portfolio.git)
 
 ---
 
