@@ -8,11 +8,12 @@ An interactive dashboard built with **Power BI** to visualize sales performance,
 
 This project transforms raw sales data into a clean and interactive dashboard. It answers essential business questions such as:
 
-- Transform raw sales data into meaningful KPIs and visualizations
+- 📈 What is the sales trend over time?
+- 🛍️ Which products are top sellers?
+- 🌍 Which regions drive the most revenue?
+- 💰 What’s our profit margin?
 
-- Apply data modeling, DAX measures, and filtering techniques
-
-- Design a clean, interactive dashboard for business decision-making
+Whether you're an analyst, manager, or decision-maker, this dashboard gives you the tools to explore your sales data effectively.
 
 ---
 
