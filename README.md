@@ -63,7 +63,7 @@ If you're hiring or interested in a collaboration, feel free to reach out!
 
 - 📧 [Email](mailto:thodsaphol.cha@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/thodsaphon-chamnansuek-318642355)   
-- 🌐 Portfolio:[ [yourportfolio.com](https://yourportfolio.com)](https://github.com/ThodsaphonChamnansuek/my_portfolio.git)
+- 🌐 Portfolio:[ (https://yourportfolio.com)](https://github.com/ThodsaphonChamnansuek/my_portfolio.git)
 
 ---
 
