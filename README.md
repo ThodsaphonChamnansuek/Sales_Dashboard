@@ -68,7 +68,7 @@ If you're hiring or interested in a collaboration, feel free to reach out!
 ---
 
 > “Data is a tool, not an answer. But the right dashboard brings you closer to both.”  
-> — You 😉
+> — Chat GPT 😉
 
 
 
