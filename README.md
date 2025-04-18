@@ -2,8 +2,6 @@
 
 An interactive dashboard built with **Power BI** to visualize sales performance, highlight key business insights, and support data-driven decisions.
 
-![Dashboard Preview](./images/Sales-Dashboard.png) <!-- เปลี่ยนชื่อหรือ path รูปภาพให้ตรงกับของคุณ -->
-
 ---
 
 ## 🚀 Overview
