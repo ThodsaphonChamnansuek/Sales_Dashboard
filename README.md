@@ -3,8 +3,8 @@
 
 ## 🚀 Project Overview
 
--- This project demonstrates my ability to:
+This project demonstrates my ability to:
 
- -- Transform raw sales data into meaningful KPIs and visualizations
- -- Apply data modeling, DAX measures, and filtering techniques
- -- Design a clean, interactive dashboard for business decision-making
+- Transform raw sales data into meaningful KPIs and visualizations
+- Apply data modeling, DAX measures, and filtering techniques
+- Design a clean, interactive dashboard for business decision-making
