@@ -49,7 +49,7 @@ Whether you're an analyst, manager, or decision-maker, this dashboard gives you 
 
 ## 📸 Screenshot
 
-![Sales-Dashboard](https://github.com/user-attachments/assets/212f9ff1-836e-4528-a57e-32264eb1f533)
+![Sales-Dashboard](images/Sales-Dashboard.jpg)
 
 ---
 
